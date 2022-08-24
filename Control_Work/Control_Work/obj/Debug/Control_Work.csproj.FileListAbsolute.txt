@@ -1,0 +1,8 @@
+C:\Users\lovag\Desktop\Git\HomeWorkSem\Control_Work\Control_Work\bin\Debug\Control_Work.exe.config
+C:\Users\lovag\Desktop\Git\HomeWorkSem\Control_Work\Control_Work\bin\Debug\Control_Work.exe
+C:\Users\lovag\Desktop\Git\HomeWorkSem\Control_Work\Control_Work\bin\Debug\Control_Work.pdb
+C:\Users\lovag\Desktop\Git\HomeWorkSem\Control_Work\Control_Work\obj\Debug\Control_Work.csproj.AssemblyReference.cache
+C:\Users\lovag\Desktop\Git\HomeWorkSem\Control_Work\Control_Work\obj\Debug\Control_Work.csproj.SuggestedBindingRedirects.cache
+C:\Users\lovag\Desktop\Git\HomeWorkSem\Control_Work\Control_Work\obj\Debug\Control_Work.csproj.CoreCompileInputs.cache
+C:\Users\lovag\Desktop\Git\HomeWorkSem\Control_Work\Control_Work\obj\Debug\Control_Work.exe
+C:\Users\lovag\Desktop\Git\HomeWorkSem\Control_Work\Control_Work\obj\Debug\Control_Work.pdb
